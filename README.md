@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wardah 
-- 👀 I’m interested in being a front-end dev and crytogrpahy
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in being a data scientist
+- 🌱 I’m currently learning computer networks
 - 📫 How to reach me on ig @Wardxhhhhh
 
 <!---
