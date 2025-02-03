@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wardah 
 - 👀 I’m interested in being a data scientist
-- 🌱 I’m currently learning computer networks
+- 🌱 I’m currently learning Artificial Intelligence
 - 📫 How to reach me on ig @Wardxhhhhh
 
 <!---
